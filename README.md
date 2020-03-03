@@ -1,2 +1,2 @@
-# AzureAutomation
-Using the Azure Vision Api and the power of Automation Anywhere ,We have created a bot to identify images and tag them automatically.
+# AutomationAnywhereBots
+These Bots are compatible only with AutomationAnywhere RPA.
